@@ -3,7 +3,7 @@
 - Nombre Completo: Elias Fabricio Palomares Torres 
 - Legajo: 234.082-3
 - Foto Personal:  
-    ![Foto](Fp.jpeg)
+    ![Foto](image.png)
 ## Sobre mi 
 Buen día, mi nombre es **Elias**. Soy estudiante de Ingeniería en Sistemas de Información y me apasiona la programación. Mi objetivo es convertirme en desarrollador full stack de sitios web o aplicaciones móviles.
 
